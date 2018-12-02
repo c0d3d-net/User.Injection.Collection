@@ -34,6 +34,7 @@ A collection of CSS and JS Injection code for websites.
 - streamkiste.tv
 > **Note:** Use it in combination with CSS Injection
 
+
 ## CSS Injection through JS Injection (jQuery):
 ```
 jQuery('head').html(
