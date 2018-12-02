@@ -1,4 +1,8 @@
- .breadCrumbMenu cf, .main-header
+ /*
+https://s.to/account/watchlist
+*/
+
+.breadCrumbMenu cf, .main-header
  {
   display: none;
  }
