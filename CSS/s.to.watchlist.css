@@ -1,19 +1,15 @@
 /*
-https://s.to/account/watchlist
+https://s.to/account/watchlist/
 */
 
- .breadCrumbMenu cf, .main-header
- {
+.breadCrumbMenu cf, .main-header {
   display: none;
  }
- 
- #wrapper
- {
+
+#wrapper {
   top: 50px;
  }
-  
-  
- .col-md-15
- {
+
+.col-md-15 {
   max-width: 220px;
  }
