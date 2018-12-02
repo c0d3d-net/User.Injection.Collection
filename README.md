@@ -4,12 +4,12 @@ A collection of CSS and JS Injection code for websites.
 
 ## Files
 
-CSS Injection Stylesheets:
+*CSS Injection Stylesheets:*
 - amazon.com
-> **Note:** Still some bugs
+> **Note:** Some bugs
 - ddl.me
 - derstandard.at
-> **Note:** Still some bugs
+> **Note:** Some bugs
 - drive.google.com
 - facebook.com
 - google.com
@@ -28,7 +28,7 @@ CSS Injection Stylesheets:
 - vivo.sx
 - wikipedia.org
 
-JS Injection Scripts:
+*JS Injection Scripts:*
 - s.to
 > **Note:** Use it in combination with CSS Injection
 - streamkiste.tv
