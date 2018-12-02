@@ -1,0 +1,6 @@
+body {
+    background: #000 !important;
+}
+footer, header, #beforevideo, #undervideo, .video_download_header, .vjs-topbar  {
+	display: none !important;
+}

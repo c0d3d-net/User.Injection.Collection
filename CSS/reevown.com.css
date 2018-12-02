@@ -1,0 +1,16 @@
+body {
+    background-color: #000 !important;
+    color: #bdbdbd !important;
+}
+
+.menu-sidebar, .menu-sidebar .logo, .header-desktop, .page-container, .au-card, .card-header {
+    background: #292929 !important;
+}
+
+.menu-sidebar .logo {
+    border-right: none !important;
+}
+
+.navbar-sidebar .navbar__list li a {
+    color: #b1b1b1 !important;
+}

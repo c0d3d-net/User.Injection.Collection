@@ -1,0 +1,26 @@
+body {
+    background: #000000;
+}
+#page {
+    width: 100%;
+}
+div#page .header {
+    background: black;
+    display: none;
+}
+div#page .content .padding {
+    padding: 0 0 0 0;
+}
+div#page .content {
+    background: black;
+}
+.jwplayer {
+    width: 100vw;
+    height: 50vw;
+}
+#vmenubar, #header, #footer {
+    display: none;
+}
+div#page .bottom {
+    display: none;
+}

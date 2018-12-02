@@ -1,0 +1,44 @@
+footer, #sticky-sidebar, #stream-link, #english, #footer, .rating, .sb, .owl-carousel.owl-loaded, .tab, .headline {
+    display: none !important;
+}
+
+.single-content.detail {
+    width: 100% !important;
+}
+
+.wrapper {
+    width: 95vw !important;
+}
+
+#header-wrapper, .single-content.tabs, .wrap h2.title {
+    zoom: 80% !important;
+}
+
+.single-content.movie {
+    zoom: 90% !important;
+}
+
+#stream-h, #stream-head, #single-stream {
+    margin: 1px 0 !important;
+    padding: 1px !important;
+}
+
+.wrap h2.title {
+    display: none !important;
+}
+
+.header-logo {
+    zoom: 80% !important;
+    height: 52px !important;
+    padding-top: 11px !important;
+    margin-left: -20% !important;
+}
+
+#nav {
+    margin-left: -12.5% !important;
+}
+
+.list-categories {
+    margin-top: 1px !important;
+}
+

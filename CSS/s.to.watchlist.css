@@ -1,0 +1,15 @@
+ .breadCrumbMenu cf, .main-header
+ {
+  display: none;
+ }
+ 
+ #wrapper
+ {
+  top: 50px;
+ }
+  
+  
+ .col-md-15
+ {
+  max-width: 220px;
+ }

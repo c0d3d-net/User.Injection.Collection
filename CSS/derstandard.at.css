@@ -1,0 +1,76 @@
+body {
+	zoom: 120%!important;
+	color: #dadada!important;
+}
+.opaque {
+    background-color: #222f00 !important;
+}
+a, .lnkcol, .stdButton, .std-button {
+    color: rgba(255, 255, 255, 0.67) !important;
+}
+#objectContent h6, small, .context {
+    color: #e4e4e4!important;
+}
+span.rel, a.rel, .chron {
+    padding: 1px 8px!important;
+    margin: 0 2px 0 0!important;
+    background: #000000db!important;
+    float: none!important;
+}
+.light {
+    background-color: rgb(35, 47, 0) !important;
+}
+.headlines.clearfix {
+    border-color: rgba(185, 185, 185, 0.43) !important;
+}
+#navLine1 {
+    background-color: #10311a !important;
+}
+#navLine2 {
+    background-color: #2c3e33 !important;
+}
+svg.theme {
+    fill: rgba(255, 255, 255, 0.73) !important;
+}
+.menu, .well-section {
+    background-color: #42424200 !important;
+    background-image: none !important;
+    border: 1px solid white !important;
+}
+li.group.normal, .well-section.user .featureColBg, .theme-international, .theme-inland,  .theme-panorama, .theme-wirtschaft, .theme-web, .theme-sport, .theme-karriere, .theme-reisen, .theme-immobilien, .theme-etat, .theme-lifestyle, .theme-kultur, .theme-wissenschaft, .theme-gesundheit, .theme-diestandard {
+    background-color: #42424200 !important;
+}
+.well-section .menu {
+    border: none !important;
+}
+#archive-calendar {
+    background-color: rgba(0, 0, 0, 0.25) !important;
+}
+#archive-calendar ul li a {
+    background-color: #1d1d1d !important;
+}
+#archive-calendar ul li span {
+    background-color: #000 !important;
+    color: #c3c3c3 !important;
+}
+#documentCanvas, #weiterLesen {
+    margin-left: 18% !important;
+}
+.contentBlocks .stories.col-D li.big.img .text, .contentBlocks .stories.col-D li.small.img .text {
+    background-color: rgba(1, 19, 0, 0.85) !important;
+}
+.contentBlocks.expansion {
+    background-color: #232f00 !important;
+}
+.upost-communityname, .upost-follower, .upost-date, .forum-intro {
+    color: #adadad !important;
+}
+.upost .upost-tools>a, .upost .upost-tools button {
+    color: #adadad !important;
+}
+#forum-tb .forum-tb-postingcount {
+    color: #adadad !important;
+}
+#bi {
+    src: none !important;
+}

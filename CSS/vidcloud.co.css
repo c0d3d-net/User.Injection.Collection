@@ -1,0 +1,16 @@
+header, footer, h2, .file-size, .file-share, .login-via, .block, .modal {
+	display: none !important;
+}
+
+#main, body, .content-share-wrap {
+    background: #000 !important;
+}
+
+.container {
+    width: 90VW !important;
+    HEIGHT: AUTO !important;
+}
+
+.content-share-video {
+    BORDER: SOLID 1PX rgba(82, 40, 163, 0.69) !important;
+}
