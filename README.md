@@ -6,10 +6,10 @@ A collection of CSS and JS Injection code for websites.
 
 CSS Injection Stylesheets:
 - amazon.com
-> **Note:** Some bugs
+> **Note:** Still some bugs
 - ddl.me
 - derstandard.at
-> **Note:** Some bugs
+> **Note:** Still some bugs
 - drive.google.com
 - facebook.com
 - google.com
