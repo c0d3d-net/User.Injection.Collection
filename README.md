@@ -34,7 +34,7 @@ A collection of CSS and JS Injection code for websites.
 - streamkiste.tv
 > **Note:** Use it in combination with CSS Injection
 
-# CSS Injection through JS Injection (jQuery):
+## CSS Injection through JS Injection (jQuery):
 ```
 jQuery('head').html(
             jQuery('head').html() + '<link rel="stylesheet" href="https://raw.githubusercontent.com/c0d3d-net/User.Injection.Collection/master/CSS/amazon.css">'
