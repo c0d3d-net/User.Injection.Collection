@@ -39,13 +39,13 @@ section.vivo-content.stream {
     padding-bottom: 0;
 }
 .vivo-content-box-wrapper .vivo-content-box h1 {
-    color: #b56700;
-    font-size: 14px;
+    color: #ea8500;
+    font-size: 16px;
 }
 .vivo-content-box-wrapper .vivo-content-box-watch h1 strong {
     font-weight: 100;
-    color: #b56700;
-    font-size: 14px;
+    color: #ea8500;
+    font-size: 15px;
 }
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
     font-family: inherit;
