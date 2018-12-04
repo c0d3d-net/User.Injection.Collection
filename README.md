@@ -16,12 +16,12 @@ A collection of CSS and JS Injection code for websites.
 - rapidvideo.com
 - reevown.com
 - s.to
-> **Note:** Use it in combination with JS Injection
+> **Note:** For full experience: use it in combination with JS Injection
 - serienjunkies.org
 - soundcloud.com
 - streamcloud.eu
 - streamkiste.tv
-> **Note:** Use it in combination with JS Injection
+> **Note:** For full experience: use it in combination with JS Injection
 - twitter.com
 - vidcloud.co
 - vidoza.net
@@ -29,11 +29,10 @@ A collection of CSS and JS Injection code for websites.
 - wikipedia.org
 
 *JS Injection Scripts (uses jQuery):*
+> **Note:** For full experience: use it in combination with CSS Injection
+- ddl.me
 - s.to
-> **Note:** Use it in combination with CSS Injection
 - streamkiste.tv
-> **Note:** Use it in combination with CSS Injection
-
 
 ## CSS Injection through JS Injection (jQuery):
 ```
