@@ -52,38 +52,16 @@ Size modifications
   .inSiteWebStream {
       background: transparent !important;
   }
-  .allSeriesBox {
+  .allSeriesBox, .globalNewsMessage, .pageTitle, .hosterSectionTitle, .descriptionSpoilerPlaceholder, .descriptionSpoilerLink, .submitNewDescription, .ContentContainerBox,  .socialshareboxseries, .socialMediaBox {
       display: none !important;
   }
-  .pageTitle {
-      display: none !important;
-  }
-  .hosterSectionTitle {
-      display: none !important;
-  }
-  /* Hide unused description div */
-   .descriptionSpoilerPlaceholder {
-      display: none !important;
-  }
-  .descriptionSpoilerLink {
-      display: none !important;
-  }
-  .submitNewDescription {
-      display: none !important;
-  }
-  /* Hide season coverboxes and TV show recommendations */
-   .ContentContainerBox {
-      display: none !important;
-  }
-  /* Hide footer */
-   #footer {
+  #footer {
       display: none !important;
   }
   .marginBottom {
       margin-bottom: 0 !important;
       padding-bottom: 0 !important;
   }
-  /* Header modifications */
    .logo-wrapper {
       padding-top: 5px !important;
       padding-right: 5px !important;
@@ -120,12 +98,6 @@ Size modifications
       border: 2px solid #888 !important;
       background: transparent !important;
   }
-  .socialshareboxseries {
-      display: none !important;
-  }
-  .socialMediaBox {
-      display: none !important;
-  }
   .button.blue {
       background: #0f1620 !important;
   }
@@ -147,9 +119,6 @@ Size modifications
   }
   .episodeEnglishTitel {
       font-size: 15px !important;
-  }
-  .descriptionSpoilerLink, .submitNewDescription {
-      display: none !important;
   }
   .breadCrumbMenu {
       margin: 5px 0 !important;
