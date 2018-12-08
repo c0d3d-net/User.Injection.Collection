@@ -31,6 +31,7 @@ A collection of CSS and JS Injection code for websites.
 - ddl.me
 - s.to
 - streamkiste.tv
+- vivo.sx
 
 ## CSS Injection through JS Injection (jQuery):
 ```
