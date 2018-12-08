@@ -8,8 +8,6 @@ A collection of CSS and JS Injection code for websites.
 - amazon.com
 > **Note:** Still some bugs
 - ddl.me
-- derstandard.at
-> **Note:** Still some bugs
 - drive.google.com
 - facebook.com
 - google.com
@@ -25,7 +23,7 @@ A collection of CSS and JS Injection code for websites.
 - twitter.com
 - vidcloud.co
 - vidoza.net
-- vivo.sx
+- vivo.sx + vivo.sx.red
 - wikipedia.org
 
 *JS Injection Scripts (uses jQuery):*
