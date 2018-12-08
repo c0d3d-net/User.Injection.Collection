@@ -28,7 +28,6 @@ A collection of CSS and JS Injection code for websites.
 
 *JS Injection Scripts (uses jQuery):*
 > **Note:** For full experience: use it in combination with CSS Injection
-- ddl.me
 - s.to
 - streamkiste.tv
 - vivo.sx
