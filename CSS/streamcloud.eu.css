@@ -1,26 +1,31 @@
 body {
-    background: #000000;
+    background: #000000 !important;
 }
 #page {
-    width: 100%;
+    width: 100% !important;
 }
-div#page .header {
-    background: black;
-    display: none;
+div#page .header{
+    background: black !important;
+    display: none !important;
 }
 div#page .content .padding {
-    padding: 0 0 0 0;
+    padding: 0 0 0 0 !important;
 }
 div#page .content {
-    background: black;
+    background: black !important;
 }
 .jwplayer {
-    width: 100vw;
-    height: 50vw;
+    width: 100vw !important;
+    height: 50vw !important;
 }
 #vmenubar, #header, #footer {
-    display: none;
+    display: none !important;
 }
+
 div#page .bottom {
-    display: none;
+    display: none !important;
+}
+#mediaplayer_controlbar {
+    max-width: 90vw !important;
+    width: 80vw !important;
 }
