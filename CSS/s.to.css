@@ -126,3 +126,7 @@ Size modifications
   .markAsLastSeen {
       margin: 15px 20px 0 20px !important;
   }
+  .coverListItem {
+    margin-right: 2%;
+    margin-left: 3%;
+}
