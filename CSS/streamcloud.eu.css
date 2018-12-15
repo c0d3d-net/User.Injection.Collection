@@ -22,7 +22,7 @@ div#page .content {
     display: none !important;
 }
 
-div#page .bottom {
+div#page .bottom, div#page .top {
     display: none !important;
 }
 #mediaplayer_controlbar {
