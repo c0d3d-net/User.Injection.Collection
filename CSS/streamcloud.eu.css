@@ -9,7 +9,7 @@ div#page .header{
     display: none !important;
 }
 div#page .content .padding {
-    padding: 0 0 0 0 !important;
+    padding: 50px 0 0 0 !important;
 }
 div#page .content {
     background: black !important;
