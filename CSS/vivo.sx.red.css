@@ -92,12 +92,6 @@ div[onclick*="("] {
     font-style: normal !important;
     text-decoration: none !important;
 }
-.fp-elapsed, .fp-duration {
-    color: #dedede !important;
-}
-.fp-duration:before {
-    color: #dedede !important;
-}
 #preload {
     background: #000 !important;
 }
@@ -111,4 +105,10 @@ div[onclick*="("] {
 }
 section.vivo-content.stream {
     padding-top: 10px !important;
+}
+.flowplayer .fp-color {
+    background-color: #ff0000 !important;
+}
+.fp-elapsed, .fp-duration, .fp-duration:before {
+    color: rgb(181, 0, 0) !important;
 }
