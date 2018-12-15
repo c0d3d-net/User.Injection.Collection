@@ -87,7 +87,7 @@ div[onclick*="("] {
 }
 .fp-color, .fp-progress, .fp-bar>.fp-progress.animated{
     background-color: #4a0000 !important;
-    border: 1px solid #b50000 !important;
+    border: none !important;
     color: #b50000 !important;
     font-style: normal !important;
     text-decoration: none !important;
