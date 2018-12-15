@@ -11,7 +11,7 @@ footer {
     display: none !important;
 }
 #player {
-    border: solid 1px #b50000 !important;
+    border: dotted 1px #b50000 !important;
 }
 .watch-footer {
     display: none !important;
