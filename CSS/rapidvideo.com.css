@@ -33,3 +33,6 @@ div {
 .video-js .vjs-load-progress div {
     background: rgba(255, 188, 0, 0.75);
 }
+.video-js .vjs-time-tooltip {
+    color: #ff0000;
+}
