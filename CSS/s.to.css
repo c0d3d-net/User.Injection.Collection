@@ -1,12 +1,3 @@
-/*
-S.TO Night TV Mode Modifications v2.0
-coded by c0d3d.net
-
-includes:
-Color modifications
-Hides not needed DIVs
-Size modifications
-*/
   .hosterSiteDirectNav {
       margin-bottom: 15px !important;
   }
@@ -52,12 +43,10 @@ Size modifications
   .inSiteWebStream {
       background: transparent !important;
   }
-  .allSeriesBox, .globalNewsMessage, .pageTitle, .hosterSectionTitle, .descriptionSpoilerPlaceholder, .descriptionSpoilerLink, .submitNewDescription, .ContentContainerBox,  .socialshareboxseries, .socialMediaBox {
+  .allSeriesBox, .globalNewsMessage, .pageTitle, .hosterSectionTitle, .descriptionSpoilerPlaceholder, .descriptionSpoilerLink, .submitNewDescription, .ContentContainerBox,  .socialshareboxseries, .socialMediaBox, .paragraph-end.black, #footer {
       display: none !important;
   }
-  #footer {
-      display: none !important;
-  }
+  
   .marginBottom {
       margin-bottom: 0 !important;
       padding-bottom: 0 !important;
