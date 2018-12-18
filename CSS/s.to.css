@@ -27,6 +27,11 @@
 
 .changeLanguageBox,.hosterSectionTitle {
     background: 0 0!important;
+    color: #ccc !important;
+}
+
+.changeLanguageBox strong,.hosterSiteVideo h4,.shoutboxMessage strong {
+    color: #ccc !important;
 }
 
 .changeLanguageBox {
