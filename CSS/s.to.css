@@ -55,6 +55,7 @@
 }
 
 .inSiteWebStream {
+    padding: 10px 0 10px 0;
     background: 0 0!important;
 }
 
@@ -165,10 +166,10 @@
 }
 
 .paragraph-end {
-    background-image: -webkit-gradient(linear,left top,right top,color-stop(0,rgba(254,254,254,0)),color-stop(100%,#121c2200))!important;
-    background-image: -webkit-linear-gradient(left,rgba(254,254,254,0),#121c2200)!important;
+    background-image: -webkit-gradient(linear,left top,right top,color-stop(0,rgba(254,254,254,0)),color-stop(0%,#00000000))!important;
+    background-image: -webkit-linear-gradient(left,rgba(254,254,254,0),#00000000)!important;
     background: linear-gradient(to right,rgba(254,254,254,0),#121c2200)!important;
-    filter: progid:DXImageTransform.Microsoft.gradient(GradientType=1,StartColorStr='#00000000',EndColorStr='#121c2200')!important;
+    filter: progid:DXImageTransform.Microsoft.gradient(GradientType=1,StartColorStr='#00000000',EndColorStr='#00000000')!important;
     bottom: 0!important;
     max-height: 100%!important;
     position: absolute!important;
