@@ -1,3 +1,9 @@
+html, body {
+    background: #030508 !important;
+}
+.homeContentPromotionBox>.homeSliderView .col-md-3 {
+    background: #030508!important;
+}
 .hosterSiteDirectNav {
     margin-bottom: 15px!important;
 }
@@ -136,10 +142,6 @@
 .coverListItem {
     margin-right: 2%!important;
     margin-left: 3%!important;
-}
-
-.homeContentPromotionBox>.homeSliderView .col-md-3,html {
-    background: #0f1621!important;
 }
 
 .mediaBodyMessageBoxContent p {
