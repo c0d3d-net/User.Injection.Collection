@@ -1,7 +1,7 @@
 header, footer, div#alert-stream, div#alert-browser, div#alert-throttle, div#at4-follow, div#at4-share, div#at4-thankyou, div#at4-whatsnext, #fb-root, #light-background, #_atssh, .watch-footer, .stream-share, .clearfix, .fp-filters, .fp-logo, .watch-footer, .addthis-smartlayers {
     display: none !important;
 }
-html, #preload, section.app_overview, .vivo-content-box {
+html, body, #preload, section.app_overview, .vivo-content-box {
     background: #000 !important;
 }
 .vivo-content-box {
