@@ -1,6 +1,6 @@
 # User.Injection.Collection
 
-A collection of CSS and JS Injection code for websites.
+A collection of CSS and JS Injection code for websites. For perfect function use additionally "AdBlocker Ultimate" Extension for your Browser.
 
 ## Files
 
