@@ -29,17 +29,9 @@ A collection of CSS and JS Injection code for websites.
 - wikipedia.org.css
 
 *JS Injection Scripts (uses jQuery):*
-- vivo.sx.fs.js
-
 > **Note:** For full experience: use it in combination with CSS Injection
 - rapidvideo.com.js
 - s.to.js
 - streamkiste.tv.js
 - vivo.sx.js
-
-## CSS Injection through JS Injection (jQuery):
-```
-jQuery('head').html(
-            jQuery('head').html() + '<link rel="stylesheet" href="https://raw.githubusercontent.com/c0d3d-net/User.Injection.Collection/master/CSS/amazon.css">'
-        );
-```
+- vivo.sx.fs.js (Standalone fullscreen player script)
