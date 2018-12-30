@@ -25,7 +25,6 @@ A collection of CSS and JS Injection code for websites. For perfect function use
 - vidoza.net.css
 - vivo.sx.css
 - vivo.sx.red.css
-- vivo.sx.fs.css (Style for vivo.sx.fs.js > Standalone fullscreen player script)
 - wikipedia.org.css
 
 *JS Injection Scripts (uses jQuery):*
@@ -34,4 +33,3 @@ A collection of CSS and JS Injection code for websites. For perfect function use
 - s.to.js
 - streamkiste.tv.js
 - vivo.sx.js
-- vivo.sx.fs.js (Standalone fullscreen player script)
