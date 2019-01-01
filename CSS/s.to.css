@@ -65,7 +65,7 @@ html, body {
     background: 0 0!important;
 }
 
-#footer,#news,#supportFAQ,.ContentContainerBox,.allSeriesBox,.col-lg-4,.col-md-8,.descriptionSpoilerLink,.descriptionSpoilerPlaceholder,.globalNewsMessage,.homepageInformationText,.hosterSectionTitle,.pageTitle,.paragraph-end.black,.shoutbox,.socialMediaBox,.socialshareboxseries,.ssto-share-buttons,.submitNewDescription,.topUserMonth,.tvSeriesCalendarNavigation {
+#footer,#news,#supportFAQ,.ContentContainerBox,.allSeriesBox,.col-lg-4,.col-md-8,.descriptionSpoilerLink,.descriptionSpoilerPlaceholder,.globalNewsMessage,.homepageInformationText,.hosterSectionTitle,.pageTitle,.paragraph-end.black,.shoutbox,.socialMediaBox,.socialshareboxseries,.ssto-share-buttons,.submitNewDescription,.topUserMonth {
     display: none!important;
 }
 
