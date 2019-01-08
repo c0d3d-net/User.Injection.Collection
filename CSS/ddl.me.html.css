@@ -1,6 +1,6 @@
 /* URL: 'ddl.me/*.html' */
 
-.detailDesc, .hr, .css3Tags, .submenu:not(.subbar_137094), .clear, .itemHeading.detailHeading, .spacer1, #left, .stripe.tops, #entrance, #view.small {
+.detailDesc, .hr, .css3Tags, .submenu:not(#rlsNav), .clear, .itemHeading.detailHeading, .spacer1, #left, .stripe.tops, #entrance, #view.small {
 	display: none !important;
 }
 
