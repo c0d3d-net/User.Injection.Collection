@@ -8,6 +8,8 @@ A collection of CSS and JS Injection code for websites. For perfect function use
 - amazon.com.css
 > **Note:** Still some bugs
 - ddl.me.css
+- ddl.me.html.css
+> **Note:** Modifies stream contents, but not the main page. Use for URL: ddl.me/*.html
 - drive.google.com.css
 - facebook.com.css
 - google.com.css
