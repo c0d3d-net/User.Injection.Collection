@@ -1,0 +1,51 @@
+/* URL: 'ddl.me/*.html' */
+
+.detailDesc, .hr, .css3Tags, .submenu:not(.subbar_137094), .clear, .itemHeading.detailHeading, .spacer1, #left, .stripe.tops, #entrance, #view.small {
+	display: none !important;
+}
+
+.streamContainer.big {
+    background: url(#) !important;
+    width: 1020px !important;
+    height: 650px !important;
+    margin-bottom: -14px !important;
+}
+
+.streamContainer.big div {
+    left: 0 !important;
+    position: relative !important;
+    top: 0 !important;
+}
+
+.stream {
+    width: 1000px !important;
+    height: 850px !important;
+}
+
+iframe {
+    width: 1000px !important;
+    height: 620px !important;
+}
+
+#content {
+    padding: 0 0;
+    min-height: auto;
+    width: 1000px !important;
+    height: 850px !important;
+}
+
+#rightInner {
+    width: 1000px !important;
+}
+
+#right {
+    background-image: url(#);
+    width: 1000px !important;
+}
+
+.streamContainer.small {
+    background: url(#);
+    width: 1000px !important;
+    height: 650px !important;
+    margin-bottom: -14px;
+}
