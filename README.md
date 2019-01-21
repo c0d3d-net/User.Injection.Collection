@@ -26,7 +26,6 @@ A collection of CSS and JS Injection code for websites. For perfect function use
 - vidcloud.co.css
 - vidoza.net.css
 - vivo.sx.css
-- vivo.sx.red.css
 - wikipedia.org.css
 
 *JS Injection Scripts (uses jQuery):*
