@@ -74,12 +74,3 @@ html {
 div[onclick*="("] {
     display: none !important;
 }
-.stream-content {
-    width: 80vw !important;
-    height: 50vw !important;
-    margin-left: 5vw !important;
-}
-.plyr.plyr--full-ui.plyr--video.plyr--html5.plyr--pip-supported.plyr--fullscreen-enabled.plyr--googlecast-supported.plyr__tab-focus.plyr--paused {
-    width: 80vw !important;
-    height: 45vw !important;
-}
