@@ -62,7 +62,6 @@ html {
     margin-top: 10px !important;
     color: #b50000 !important;
 }
-
 .flowplayer .fp-color {
     background-color: #ff0000 !important;
 }
@@ -74,4 +73,9 @@ html {
 }
 div[onclick*="("] {
     display: none !important;
+}
+.stream-content {
+    width: 80vw !important;
+    height: 40vw !important;
+    margin-left: 5vw !important;
 }
