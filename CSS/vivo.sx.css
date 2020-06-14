@@ -1,76 +1,99 @@
-header, footer, div#alert-stream, div#alert-browser, div#alert-throttle, div#at4-follow, div#at4-share, div#at4-thankyou, div#at4-whatsnext, #fb-root, #light-background, #_atssh, .watch-footer, .stream-share, .clearfix, .fp-filters, .fp-logo, .watch-footer, .addthis-smartlayers {
-    display: none !important;
+#_atssh,#fb-root,#light-background,.addthis-smartlayers,.clearfix,.fp-filters,.fp-logo,div#alert-browser,div#alert-stream,div#alert-throttle,div#at4-follow,div#at4-share,div#at4-thankyou,div#at4-whatsnext,footer,header, .col-md-12.col-sm-12.col-xs-12.player-above {
+    display: none!important
 }
-html, #preload, section.app_overview, .vivo-content-box {
-    background: #000 !important;
+
+#preload,.vivo-content-box,html,section.app_overview {
+    background: #000!important
 }
+
 #player {
-    border: dotted 1px #b50000 !important;
+    border: dotted 1px #b50000!important
 }
+
 .vivo-content-box {
-    border-radius: 5px !important;
-    color: #eee !important;
-    padding: 0 !important;
+    border-radius: 5px!important;
+    color: #eee!important;
+    padding: 0!important
 }
+
 section.vivo-content.stream {
-    padding-top: 0 !important;
-    padding-bottom: 0 !important;
+    padding-top: 0!important;
+    padding-bottom: 0!important
 }
+
 .vivo-content-box-wrapper .vivo-content-box h1 {
-    color: #b50000 !important;
-    font-size: 16px !important;
+    color: #b50000!important;
+    font-size: 16px!important
 }
+
 .vivo-content-box-wrapper .vivo-content-box-watch h1 strong {
-    font-weight: 100 !important;
-    color: #b50000 !important;
-    font-size: 15px !important;
+    font-weight: 100!important;
+    color: #b50000!important;
+    font-size: 15px!important
 }
-.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
-    font-family: inherit !important;
-    font-weight: 100 !important;
-    line-height: 1 !important;
-    color: #b50000 !important;
+
+.h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6 {
+    font-family: inherit!important;
+    font-weight: 100!important;
+    line-height: 1!important;
+    color: #b50000!important
 }
+
 .container {
-    width: 90% !important;
+    width: 90%!important
 }
+
 .vivo-content-box-wrapper {
-    padding-left: 0 !important;
-    padding-right: 0 !important;
+    padding-left: 0!important;
+    padding-right: 0!important
 }
+
 html {
-    font-size: 62.5% !important;
-    -webkit-tap-highlight-color: #555 !important;
+    font-size: 62.5%!important;
+    -webkit-tap-highlight-color: #555!important
 }
-.fp-ui, .fp-icon {
-    color: #b50000 !important;
-    font-style: normal !important;
-    text-decoration: none !important;
+
+.fp-bar>.fp-progress.animated,.fp-color,.fp-icon,.fp-progress,.fp-ui {
+    color: #b50000!important;
+    font-style: normal!important;
+    text-decoration: none!important
 }
-.fp-color, .fp-progress, .fp-bar>.fp-progress.animated{
-    background-color: #4a0000 !important;
-    border: none !important;
-    color: #b50000 !important;
-    font-style: normal !important;
-    text-decoration: none !important;
+
+.fp-bar>.fp-progress.animated,.fp-color,.fp-progress {
+    background-color: #4a0000!important;
+    border: 0!important
 }
+
 .preload_loader div {
-    background-color: rgb(181, 0, 0) !important;
-    border-radius: 1px !important;
+    background-color: #b50000!important;
+    border-radius: 1px!important
 }
+
 .vivo-video-data-holder {
-    margin-top: 10px !important;
-    color: #b50000 !important;
+    margin-top: 10px!important;
+    color: #b50000!important
 }
+
 .flowplayer .fp-color {
-    background-color: #ff0000 !important;
+    background-color: red!important
 }
-.fp-elapsed, .fp-duration, .fp-duration:before {
-    color: rgb(181, 0, 0) !important;
+
+.fp-duration,.fp-duration:before,.fp-elapsed {
+    color: #b50000!important
 }
-#AdWidgetContainer, div.cc-window.cc-banner.cc-type-info.cc-theme-classic.cc-static.cc-top.cc-color-override--608615963.cc-invisible {
-    display: none !important;
+
+#AdWidgetContainer,.cc-grower,.regular_footer,.regular_header_wrapper,.stream-share,.watch-footer,div.cc-window.cc-banner.cc-type-info.cc-theme-classic.cc-static.cc-top.cc-color-override--608615963.cc-invisible,div[onclick*="("] {
+    display: none!important
 }
-div[onclick*="("] {
-    display: none !important;
+
+section.app_overview {
+    background: #232323!important
+}
+
+.col-md-12.col-sm-12.col-xs-12,body {
+    font-family: helvetica neue,Helvetica,Arial,sans-serif;
+    font-size: 11px!important;
+    line-height: 1!important;
+    color: #bbb!important;
+    background-color: #232323!important
 }
